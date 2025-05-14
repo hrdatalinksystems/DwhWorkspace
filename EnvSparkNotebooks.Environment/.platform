@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "EnvSparkNotebooks",
+    "description": "Environment"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d15dcab0-781a-b101-4730-eb79b10c1a66"
+  }
+}
